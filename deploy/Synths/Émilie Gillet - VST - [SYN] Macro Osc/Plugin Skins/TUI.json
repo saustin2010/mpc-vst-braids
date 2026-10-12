@@ -4400,7 +4400,7 @@
                     }
                 },
                 {
-                    "key": "BRAIDS|BRAIDS",
+                    "key": "MACRO OSC|MACRO OSC",
                     "value": {
                         "version": 4,
                         "actions": [],
@@ -14195,7 +14195,7 @@
         "tabs": [
             {
                 "version": 3,
-                "tabName": "BRAIDS",
+                "tabName": "MACRO OSC",
                 "fnKeyIndex": 0,
                 "fnKeySubIndex": 0,
                 "qlinkBoundsData": [
@@ -14204,7 +14204,7 @@
                     "660 430 282 152",
                     "19 25 608 118"
                 ],
-                "componentName": "BRAIDS|BRAIDS",
+                "componentName": "MACRO OSC|MACRO OSC",
                 "initialSize": "0 0 1280 628",
                 "scale": 1.0
             },
